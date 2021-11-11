@@ -1,0 +1,15 @@
+En este archivo se subo, el chatbot en version .unitypackage la cual  tenemos que importar, se importa desde Assets / import package /
+y seleccionar el archivo EnglishChatBot.unitypackage. Una vez importada tenemos la escena "Chat"en la carpeta Assets, para ello solo 
+tenemos que llevarla al Hierarchy (Donde colocamos las escenas). 
+
+
+Una vez Realizado, los pasos anteriores ya podemos darle al play e interractuar con el chat. 
+Recordar que la interración debe ser en Inglés y los mensajes se pueden mandar tanto dando al boton de enviar o con el enter. 
+
+
+
+
+*Mostrar y ocultar chat con el "zorro".
+Tendremos que colocar el script "ocultar" en el 
+ChatButton, colocando el panel en el objeto del script y a continuacion en el OnClick () colocaremos el chabutton en el objeto y donde nos
+Pone no function buscaremos ocultar y seleccionamos Mostrar objeeto.
